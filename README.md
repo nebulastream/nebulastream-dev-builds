@@ -1,4 +1,4 @@
-# NebulaStrema Builds
+# NebulaStrem Builds
 
 This repository maintains public access to prebuild binaries of NebulaStream.
 

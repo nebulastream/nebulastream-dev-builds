@@ -8,9 +8,9 @@ Currently, we provide binaries for the following systems:
 
 | Arch  | OS  |
 |---|---|
-| X84 | Ubuntu 18.04 | 
-| X84  | Ubuntu 20.04 | 
-| X84  | Ubuntu 21.10 |
+| X64 | Ubuntu 18.04 | 
+| X64  | Ubuntu 20.04 | 
+| X64  | Ubuntu 21.10 |
 | ARM64  | Ubuntu 20.04 | 
 
 

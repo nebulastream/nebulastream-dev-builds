@@ -12,6 +12,7 @@ Currently, we provide binaries for the following systems:
 | X64 | Ubuntu 18.04 | 
 | X64  | Ubuntu 20.04 | 
 | X64  | Ubuntu 21.10 |
+| X64  | Ubuntu 22.04 |
 | ARM64  | Ubuntu 20.04 | 
 
 
